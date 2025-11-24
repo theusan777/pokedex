@@ -1,4 +1,4 @@
-# 📘 Pokedex — Projeto Front-End  
+# 📘 Pokedex - Projeto Front-End  
 Uma Pokedex interativa desenvolvida com HTML, CSS e JavaScript, criada para treinar manipulação do DOM, responsividade e organização de componentes na interface. Ao clicar em um Pokémon da lista lateral, o card correspondente é exibido com imagem, tipo, habilidades e estatísticas.  
 ## Funcionalidades  
 - Navegação entre Pokémon pela listagem lateral  
